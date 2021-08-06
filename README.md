@@ -33,5 +33,6 @@ Here are some ideas to get you started:
 
 ### :trophy: My Github Stats
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satish603&theme=tokyonight">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=satish603&&show_icons=true&theme=tokyonight">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=satish603&show_icons=true&theme=tokyonight&fire=DD2727">
