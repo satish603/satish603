@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ### Hi there 👋
 <img src="https://visitor-badge.laobi.icu/badge?page_id=satish603.satish603">  <img src="https://img.shields.io/github/followers/satish603?label=Follow&style=social)](https://github.com/satish603">
 
-- 🔭 I’m currently working on Flask
+- 🔭 I’m currently working on Big Data
 - 👯 I’m looking to collaborate on Serverless API
 - 🤔 I’m looking for help with tensorflow project 😭 
 - 🌱 I’m having hands on with 
