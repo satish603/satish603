@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satish603&theme=tokyonight&hide=dart">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=satish603&&show_icons=true&theme=tokyonight">
-<!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=satish603&show_icons=true&theme=tokyonight&fire=DD2727"> -->
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=satish603&show_icons=true&theme=tokyonight&fire=DD2727">
